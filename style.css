@@ -179,7 +179,7 @@ section {
 .hero {
   position: relative;
   min-height: 620px;
-  background: url("Background Image/Steel Framing.jpg") center center / cover no-repeat;
+  background: url("Background Image/Steel\ Framing.jpg") center center / cover no-repeat;
   display: flex;
   align-items: center;
 }
